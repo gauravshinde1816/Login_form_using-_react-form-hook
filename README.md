@@ -10,4 +10,4 @@
     <li>boostrap</li>
 </ul>
 
-![alt text]("./Login_validations.gif)
+![alt text]("./Login_validations.gif")
